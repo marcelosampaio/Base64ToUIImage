@@ -12,6 +12,7 @@
 		2D20C75A21C8FD400007E187 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D20C75821C8FD400007E187 /* Main.storyboard */; };
 		2D20C75C21C8FD530007E187 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D20C75B21C8FD530007E187 /* Assets.xcassets */; };
 		2D20C75F21C8FD530007E187 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D20C75D21C8FD530007E187 /* LaunchScreen.storyboard */; };
+		2D20C76D21C911900007E187 /* debugOutputBase64.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2D20C76C21C9118F0007E187 /* debugOutputBase64.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2D20C75B21C8FD530007E187 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D20C75E21C8FD530007E187 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2D20C76021C8FD530007E187 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2D20C76C21C9118F0007E187 /* debugOutputBase64.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = debugOutputBase64.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		2D20C75321C8FD400007E187 /* Base64ToUIImage */ = {
 			isa = PBXGroup;
 			children = (
+				2D20C76C21C9118F0007E187 /* debugOutputBase64.txt */,
 				2D20C75421C8FD400007E187 /* AppDelegate.swift */,
 				2D20C75621C8FD400007E187 /* ViewController.swift */,
 				2D20C75821C8FD400007E187 /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D20C76D21C911900007E187 /* debugOutputBase64.txt in Resources */,
 				2D20C75F21C8FD530007E187 /* LaunchScreen.storyboard in Resources */,
 				2D20C75C21C8FD530007E187 /* Assets.xcassets in Resources */,
 				2D20C75A21C8FD400007E187 /* Main.storyboard in Resources */,
